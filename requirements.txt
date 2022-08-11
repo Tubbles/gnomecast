@@ -1,5 +1,5 @@
-html5lib==1.0b8
-pychromecast
-bottle
-pycaption
-paste
+html5lib==1.1
+PyChromecast==12.1.4
+bottle==0.12.21
+pycaption==2.0.9
+Paste==3.5.1
