@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 import contextlib
 import os
 import re
